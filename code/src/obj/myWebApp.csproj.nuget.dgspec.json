@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet\\docker-dotnet-aks-azure-devops\\src\\myWebApp.csproj": {}
+    "D:\\dotnet\\docker-dotnet-aks-azure-devops\\code\\src\\myWebApp.csproj": {}
   },
   "projects": {
-    "D:\\dotnet\\docker-dotnet-aks-azure-devops\\src\\myWebApp.csproj": {
+    "D:\\dotnet\\docker-dotnet-aks-azure-devops\\code\\src\\myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\docker-dotnet-aks-azure-devops\\src\\myWebApp.csproj",
+        "projectUniqueName": "D:\\dotnet\\docker-dotnet-aks-azure-devops\\code\\src\\myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "D:\\dotnet\\docker-dotnet-aks-azure-devops\\src\\myWebApp.csproj",
+        "projectPath": "D:\\dotnet\\docker-dotnet-aks-azure-devops\\code\\src\\myWebApp.csproj",
         "packagesPath": "C:\\Users\\jsk\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\docker-dotnet-aks-azure-devops\\src\\obj\\",
+        "outputPath": "D:\\dotnet\\docker-dotnet-aks-azure-devops\\code\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jsk\\AppData\\Roaming\\NuGet\\NuGet.Config"

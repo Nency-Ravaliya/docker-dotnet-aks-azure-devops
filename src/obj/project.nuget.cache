@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "S2iELW2ziRgeeUI0rTGwirA0IqTljokfpj2jjJRMdKlHCVN01lb8s4NAkFm5HvFmYWlvKGZUbSC/+HRHdEME/w==",
-  "success": true,
-  "projectFilePath": "D:\\dotnet\\docker-dotnet-aks-azure-devops\\src\\myWebApp.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}
